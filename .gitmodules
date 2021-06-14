@@ -1,0 +1,3 @@
+[submodule "SubmoduleRep"]
+	path = SubmoduleRep
+	url = git@github.com:RuslanHudukhin/SubmoduleRepository.git
