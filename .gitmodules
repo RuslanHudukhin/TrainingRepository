@@ -4,3 +4,6 @@
 [submodule "Engine"]
 	path = Engine
 	url = git@github.com:RuslanHudukhin/Engine.git
+[submodule "Vso"]
+	path = Vso
+	url = git@github.com:RuslanHudukhin/Vso.git
